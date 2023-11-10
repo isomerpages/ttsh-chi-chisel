@@ -7,10 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
+      background: /images/WhatsApp_Image_2022_01_25_at_09_28_53.jpeg
       url: /contact-us/
       key_highlights:
         - title: Highlight A
