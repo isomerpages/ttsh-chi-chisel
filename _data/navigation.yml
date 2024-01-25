@@ -1,0 +1,8 @@
+logo: /images/isomer-logo.svg
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Example Page
+    url: /example-page/
+  - title: About Chisel
+    collection: about-chisel
